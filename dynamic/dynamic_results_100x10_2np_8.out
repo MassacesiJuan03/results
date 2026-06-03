@@ -39,15 +39,7 @@
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,2,6793.79,1.8664e+06,1.87319e+06
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,2,6787.06,1.86633e+06,1.87312e+06
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,2,6791.04,1.86643e+06,1.87322e+06
-=== FIN TAREA ARRAY ID: 17 ===
-=== FIN TAREA ARRAY ID: 16 ===
-=== FIN TAREA ARRAY ID: 15 ===
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,2,6785.17,1.86703e+06,1.87381e+06
-=== FIN TAREA ARRAY ID: 18 ===
-=== INICIO TAREA ARRAY ID: 22 (Semilla: ) ===
-=== INICIO TAREA ARRAY ID: 21 (Semilla: ) ===
-=== INICIO TAREA ARRAY ID: 20 (Semilla: ) ===
-=== INICIO TAREA ARRAY ID: 19 (Semilla: ) ===
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,2,6752.28,1.86738e+06,1.87414e+06
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,2,6764.58,1.86732e+06,1.87409e+06
 === FIN TAREA ARRAY ID: 22 ===

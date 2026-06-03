@@ -3,17 +3,9 @@
 === INICIO TAREA ARRAY ID: 4 (Semilla: ) ===
 === INICIO TAREA ARRAY ID: 3 (Semilla: ) ===
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,4,3484.54,641947,645432
-=== FIN TAREA ARRAY ID: 1 ===
-=== INICIO TAREA ARRAY ID: 5 (Semilla: ) ===
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,4,3425.16,646630,650056
-=== FIN TAREA ARRAY ID: 2 ===
-=== INICIO TAREA ARRAY ID: 6 (Semilla: ) ===
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,4,3491.09,646133,649624
-=== FIN TAREA ARRAY ID: 4 ===
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,4,3481.17,646149,649630
-=== FIN TAREA ARRAY ID: 3 ===
-=== INICIO TAREA ARRAY ID: 8 (Semilla: ) ===
-=== INICIO TAREA ARRAY ID: 7 (Semilla: ) ===
 [INFO] Each process pre-generates its chunk, then master gathers...mpi_dynamic,100000,10000,4,3486.54,632390,635877
 === FIN TAREA ARRAY ID: 5 ===
 === INICIO TAREA ARRAY ID: 9 (Semilla: ) ===
